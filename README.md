@@ -9,4 +9,8 @@ Links with cool stuffs.
 - [Can I Use?](https://caniuse.com/)
 - [One Tab to organize the unorganized](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=ro)  
 - [Console log id dead?!](https://levelup.gitconnected.com/moving-beyond-console-log-8-console-methods-you-should-use-when-debugging-javascript-and-node-25f6ac840ada)  
-- [Pagination in react](https://medium.com/@agoiabeladeyemi/pagination-in-reactjs-36f4a6a6eb43)
+- [Pagination in react](https://medium.com/@agoiabeladeyemi/pagination-in-reactjs-36f4a6a6eb43)  
+
+
+## React
+- [Creating a simple react app](https://medium.com/better-programming/creating-a-simple-app-with-react-js-f6aa88998952)
