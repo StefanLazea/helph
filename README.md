@@ -20,6 +20,7 @@ Links with cool stuffs.
 - [Creating a simple react app](https://medium.com/better-programming/creating-a-simple-app-with-react-js-f6aa88998952)  
 - [Params in react url](https://medium.com/better-programming/how-to-pass-multiple-route-parameters-in-a-react-url-path-4b919de0abbe)  
 - [Pagination in react](https://medium.com/@agoiabeladeyemi/pagination-in-reactjs-36f4a6a6eb43)  
+- [Login validation](https://blog.usejournal.com/easiest-user-validation-on-authentication-with-indicative-on-reactjs-432e6a8b790c)
 
 
 ## Python   
