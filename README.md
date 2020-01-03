@@ -3,7 +3,8 @@ Links with cool stuffs.
 
 ## General knowledge
 - [Road maps](https://medium.com/level-up-web/developer-roadmaps-all-in-one-place-75c0402db0e0)  
-- [Alias in unix](https://codeburst.io/learn-how-to-create-custom-bash-commands-in-less-than-4-minutes-6d4ceadd9590)  
+- [Alias in unix](https://codeburst.io/learn-how-to-create-custom-bash-commands-in-less-than-4-minutes-6d4ceadd9590)    
+- [Dummy data mockaroo](https://mockaroo.com/)  
 
 ## Gathered  
 - [Axios with react](https://alligator.io/react/axios-react/)  
