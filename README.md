@@ -23,6 +23,9 @@ Links with cool stuffs.
 - [Pagination in react](https://medium.com/@agoiabeladeyemi/pagination-in-reactjs-36f4a6a6eb43)  
 - [Login validation](https://blog.usejournal.com/easiest-user-validation-on-authentication-with-indicative-on-reactjs-432e6a8b790c)
 
+## Javascript
+- [Build app graphs](https://www.npmjs.com/package/madge)
+
 
 ## Python   
 - [Progress Bar](https://towardsdatascience.com/learning-to-use-progress-bars-in-python-2dc436de81e5)
