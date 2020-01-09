@@ -24,7 +24,8 @@ Links with cool stuffs.
 - [Login validation](https://blog.usejournal.com/easiest-user-validation-on-authentication-with-indicative-on-reactjs-432e6a8b790c)
 
 ## Javascript
-- [Build app graphs](https://www.npmjs.com/package/madge)
+- [Build app graphs - Madge](https://www.npmjs.com/package/madge)
+- [Sequelize ERD](https://www.npmjs.com/package/sequelize-erd)
 
 
 ## Python   
