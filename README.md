@@ -21,12 +21,12 @@ Links with cool stuffs.
 - [Creating a simple react app](https://medium.com/better-programming/creating-a-simple-app-with-react-js-f6aa88998952)  
 - [Params in react url](https://medium.com/better-programming/how-to-pass-multiple-route-parameters-in-a-react-url-path-4b919de0abbe)  
 - [Pagination in react](https://medium.com/@agoiabeladeyemi/pagination-in-reactjs-36f4a6a6eb43)  
-- [Login validation](https://blog.usejournal.com/easiest-user-validation-on-authentication-with-indicative-on-reactjs-432e6a8b790c)  
-- [NavBar](https://medium.com/dailyjs/how-to-create-a-navigation-bar-with-react-router-styled-components-and-infrastructure-components-e24bee8d31bb)  
+- [Login validation](https://blog.usejournal.com/easiest-user-validation-on-authentication-with-indicative-on-reactjs-432e6a8b790c)
+
 ## Javascript
 - [Build app graphs - Madge](https://www.npmjs.com/package/madge)
-- [Sequelize ERD](https://www.npmjs.com/package/sequelize-erd)
-
+- [Sequelize ERD](https://www.npmjs.com/package/sequelize-erd)  
+- !! - [Generate pdf](https://medium.com/javascript-in-plain-english/generate-best-quality-pdf-of-any-webpage-html-page-in-nodejs-7b1223e1a3ac)
 
 ## Python   
 - [Progress Bar](https://towardsdatascience.com/learning-to-use-progress-bars-in-python-2dc436de81e5)
