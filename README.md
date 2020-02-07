@@ -22,10 +22,11 @@ Links with cool stuffs.
 - [Pagination in react](https://medium.com/@agoiabeladeyemi/pagination-in-reactjs-36f4a6a6eb43)  
 - [Login validation](https://blog.usejournal.com/easiest-user-validation-on-authentication-with-indicative-on-reactjs-432e6a8b790c)
 
-## Javascript
+## Javascript & NodeJS
 - [Build app graphs - Madge](https://www.npmjs.com/package/madge)
 - [Sequelize ERD](https://www.npmjs.com/package/sequelize-erd)  
 - !! - [Generate pdf](https://medium.com/javascript-in-plain-english/generate-best-quality-pdf-of-any-webpage-html-page-in-nodejs-7b1223e1a3ac)
+- [middlewares, serve static and split routes](https://medium.com/javascript-in-plain-english/3-express-js-features-you-need-to-know-8f78b0035f33)
 
 ## Python   
 - [Progress Bar](https://towardsdatascience.com/learning-to-use-progress-bars-in-python-2dc436de81e5)
