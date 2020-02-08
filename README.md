@@ -27,6 +27,7 @@ Links with cool stuffs.
 - [Sequelize ERD](https://www.npmjs.com/package/sequelize-erd)  
 - !! - [Generate pdf](https://medium.com/javascript-in-plain-english/generate-best-quality-pdf-of-any-webpage-html-page-in-nodejs-7b1223e1a3ac)
 - [middlewares, serve static and split routes](https://medium.com/javascript-in-plain-english/3-express-js-features-you-need-to-know-8f78b0035f33)
+- [Role based auth](https://medium.com/swlh/implementing-role-based-access-control-in-a-node-js-application-f77545278e30)
 
 ## Python   
 - [Progress Bar](https://towardsdatascience.com/learning-to-use-progress-bars-in-python-2dc436de81e5)
