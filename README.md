@@ -21,6 +21,7 @@ Links with cool stuffs.
 - [Params in react url](https://medium.com/better-programming/how-to-pass-multiple-route-parameters-in-a-react-url-path-4b919de0abbe)  
 - [Pagination in react](https://medium.com/@agoiabeladeyemi/pagination-in-reactjs-36f4a6a6eb43)  
 - [Login validation](https://blog.usejournal.com/easiest-user-validation-on-authentication-with-indicative-on-reactjs-432e6a8b790c)
+- [**Multipage app**](https://itnext.io/building-multi-page-application-with-react-f5a338489694)
 
 ## Javascript & NodeJS
 - [Build app graphs - Madge](https://www.npmjs.com/package/madge)
@@ -32,3 +33,5 @@ Links with cool stuffs.
 ## Python   
 - [Progress Bar](https://towardsdatascience.com/learning-to-use-progress-bars-in-python-2dc436de81e5)
 - [Iris - ML](https://www.w3resource.com/machine-learning/scikit-learn/iris/index.php)
+ -[**Image processing - jimp**](https://medium.com/@rossbulat/image-processing-in-nodejs-with-jimp-174f39336153)
+ 
