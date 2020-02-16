@@ -40,6 +40,6 @@ Links with cool stuffs.
   
  ## Tools  
  
- -[Devs for front-end](https://blog.bitsrc.io/12-useful-online-tools-for-frontend-developers-bf98f3bf7c63)
- -[VS Code bast practices](https://medium.com/better-programming/12-vscode-shortcuts-and-tactics-to-ease-development-f9d5d5f8b76)
+ - [Devs for front-end](https://blog.bitsrc.io/12-useful-online-tools-for-frontend-developers-bf98f3bf7c63)  
+ - [VS Code bast practices](https://medium.com/better-programming/12-vscode-shortcuts-and-tactics-to-ease-development-f9d5d5f8b76)
  
