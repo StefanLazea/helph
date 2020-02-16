@@ -30,8 +30,15 @@ Links with cool stuffs.
 - [middlewares, serve static and split routes](https://medium.com/javascript-in-plain-english/3-express-js-features-you-need-to-know-8f78b0035f33)
 - [Role based auth](https://medium.com/swlh/implementing-role-based-access-control-in-a-node-js-application-f77545278e30)
 - [read large files](https://itnext.io/using-node-js-to-read-really-really-large-files-pt-1-d2057fe76b33)  
+
+
 ## Python   
 - [Progress Bar](https://towardsdatascience.com/learning-to-use-progress-bars-in-python-2dc436de81e5)
 - [Iris - ML](https://www.w3resource.com/machine-learning/scikit-learn/iris/index.php)
  -[**Image processing - jimp**](https://medium.com/@rossbulat/image-processing-in-nodejs-with-jimp-174f39336153)
+ 
+  
+ ## Tools  
+ 
+ -[Devs for front-end](https://blog.bitsrc.io/12-useful-online-tools-for-frontend-developers-bf98f3bf7c63)
  
