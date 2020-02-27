@@ -24,6 +24,7 @@ Links with cool stuffs.
 - [**Multipage app**](https://itnext.io/building-multi-page-application-with-react-f5a338489694)  
 - [Cool libraries](https://medium.com/better-programming/5-awesome-react-js-libraries-you-should-know-about-ef0274fe4a56)  
 - [**Protected routes**](https://medium.com/javascript-in-plain-english/how-to-set-up-protected-routes-in-your-react-application-a3254deda380)
+- [**Tips & Tricks React**](https://medium.com/javascript-in-plain-english/8-react-tips-tricks-1f1a429d7da0)
 
 ## Javascript & NodeJS
 - [Build app graphs - Madge](https://www.npmjs.com/package/madge)
