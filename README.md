@@ -23,8 +23,9 @@ Links with cool stuffs.
 - [Login validation](https://blog.usejournal.com/easiest-user-validation-on-authentication-with-indicative-on-reactjs-432e6a8b790c)
 - [**Multipage app**](https://itnext.io/building-multi-page-application-with-react-f5a338489694)  
 - [Cool libraries](https://medium.com/better-programming/5-awesome-react-js-libraries-you-should-know-about-ef0274fe4a56)  
-- [**Protected routes**](https://medium.com/javascript-in-plain-english/how-to-set-up-protected-routes-in-your-react-application-a3254deda380)
-- [**Tips & Tricks React**](https://medium.com/javascript-in-plain-english/8-react-tips-tricks-1f1a429d7da0)
+- [**Protected routes**](https://medium.com/javascript-in-plain-english/how-to-set-up-protected-routes-in-your-react-application-a3254deda380)  
+- [**Tips & Tricks React**](https://medium.com/javascript-in-plain-english/8-react-tips-tricks-1f1a429d7da0)  
+- [Organize your React App](https://levelup.gitconnected.com/enterprise-size-react-application-directory-structure-90b0ebc60d59)  
 
 ## Javascript & NodeJS
 - [Build app graphs - Madge](https://www.npmjs.com/package/madge)
