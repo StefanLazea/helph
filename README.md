@@ -26,6 +26,7 @@ Links with cool stuffs.
 - [**Protected routes**](https://medium.com/javascript-in-plain-english/how-to-set-up-protected-routes-in-your-react-application-a3254deda380)  
 - [**Tips & Tricks React**](https://medium.com/javascript-in-plain-english/8-react-tips-tricks-1f1a429d7da0)  
 - [Organize your React App](https://levelup.gitconnected.com/enterprise-size-react-application-directory-structure-90b0ebc60d59)  
+- [Optimization](https://levelup.gitconnected.com/performance-optimization-techniques-in-react-31dee64c3b5)
 
 ## Javascript & NodeJS
 - [Build app graphs - Madge](https://www.npmjs.com/package/madge)
@@ -34,7 +35,8 @@ Links with cool stuffs.
 - [middlewares, serve static and split routes](https://medium.com/javascript-in-plain-english/3-express-js-features-you-need-to-know-8f78b0035f33)
 - [Role based auth](https://medium.com/swlh/implementing-role-based-access-control-in-a-node-js-application-f77545278e30)
 - [read large files](https://itnext.io/using-node-js-to-read-really-really-large-files-pt-1-d2057fe76b33)  
-- [Error handling](https://levelup.gitconnected.com/how-to-handle-errors-in-an-express-and-node-js-app-cb4fe2907ed9)
+- [Error handling](https://levelup.gitconnected.com/how-to-handle-errors-in-an-express-and-node-js-app-cb4fe2907ed9)  
+- [Do class](https://medium.com/javascript-in-plain-english/5-reasons-why-you-should-collate-your-functions-into-a-class-4928e6ab77cd)  
 
 
 ## Python   
