@@ -11,7 +11,8 @@ Links with cool stuffs.
 - [Can I Use?](https://caniuse.com/)
 - [One Tab to organize the unorganized](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=ro)  
 - [Console log id dead?!](https://levelup.gitconnected.com/moving-beyond-console-log-8-console-methods-you-should-use-when-debugging-javascript-and-node-25f6ac840ada) 
-- [Capture img](http://sviridovserg.com/2017/09/18/react-photo-capture/)
+- [Capture img](http://sviridovserg.com/2017/09/18/react-photo-capture/)  
+- [Wordpress deploy with nginx](https://linuxize.com/post/how-to-install-wordpress-with-nginx-on-ubuntu-18-04/)
 
 
 ## React  
