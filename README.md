@@ -28,7 +28,8 @@ Links with cool stuffs.
 - [**Tips & Tricks React**](https://medium.com/javascript-in-plain-english/8-react-tips-tricks-1f1a429d7da0)  
 - [Organize your React App](https://levelup.gitconnected.com/enterprise-size-react-application-directory-structure-90b0ebc60d59)  
 - [Optimization](https://levelup.gitconnected.com/performance-optimization-techniques-in-react-31dee64c3b5)
-- [Performance](https://medium.com/better-programming/boost-performance-of-your-react-app-with-memoization-e414f4f64c05)
+- [Performance](https://medium.com/better-programming/boost-performance-of-your-react-app-with-memoization-e414f4f64c05)  
+- [Tools/Hooks](https://blog.bitsrc.io/11-useful-custom-react-hooks-for-your-next-app-c66307cf0f0c)  
 
 ## Javascript & NodeJS
 - [Build app graphs - Madge](https://www.npmjs.com/package/madge)
