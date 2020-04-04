@@ -41,7 +41,8 @@ Links with cool stuffs.
 - [Error handling](https://levelup.gitconnected.com/how-to-handle-errors-in-an-express-and-node-js-app-cb4fe2907ed9)  
 - [Do class](https://medium.com/javascript-in-plain-english/5-reasons-why-you-should-collate-your-functions-into-a-class-4928e6ab77cd)  
 - [Error handling](https://medium.com/better-programming/javascript-clean-code-error-handling-9cd7e87fdbe3)  
-- [Make server logs fun again](https://medium.com/@js_tut/make-server-logs-fun-again-b8fc824d5582)
+- [Make server logs fun again](https://medium.com/@js_tut/make-server-logs-fun-again-b8fc824d5582)  
+- [Shorthands](https://medium.com/better-programming/even-more-javascript-shorthands-3bf1f5182d05)
 
 
 ## Python   
