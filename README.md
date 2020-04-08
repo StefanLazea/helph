@@ -1,4 +1,4 @@
-m# helph
+## helph
 Links with cool stuffs.
 
 ## General knowledge
@@ -31,7 +31,8 @@ Links with cool stuffs.
 - [Optimization](https://levelup.gitconnected.com/performance-optimization-techniques-in-react-31dee64c3b5)
 - [Performance](https://medium.com/better-programming/boost-performance-of-your-react-app-with-memoization-e414f4f64c05)  
 - [Tools/Hooks](https://blog.bitsrc.io/11-useful-custom-react-hooks-for-your-next-app-c66307cf0f0c)  
-- [Refs](https://blog.bitsrc.io/understanding-ref-forwarding-in-react-80accd93ed74)
+- [Refs](https://blog.bitsrc.io/understanding-ref-forwarding-in-react-80accd93ed74)  
+- [10 ways to optimize a React app](https://blog.bitsrc.io/10-ways-to-optimize-your-react-apps-performance-e5e437c9abce)
 
 ## Javascript & NodeJS
 - [Build app graphs - Madge](https://www.npmjs.com/package/madge)
