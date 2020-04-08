@@ -1,4 +1,4 @@
-# helph
+m# helph
 Links with cool stuffs.
 
 ## General knowledge
@@ -44,7 +44,8 @@ Links with cool stuffs.
 - [Do class](https://medium.com/javascript-in-plain-english/5-reasons-why-you-should-collate-your-functions-into-a-class-4928e6ab77cd)  
 - [Error handling](https://medium.com/better-programming/javascript-clean-code-error-handling-9cd7e87fdbe3)  
 - [Make server logs fun again](https://medium.com/@js_tut/make-server-logs-fun-again-b8fc824d5582)  
-- [Shorthands](https://medium.com/better-programming/even-more-javascript-shorthands-3bf1f5182d05)
+- [Shorthands](https://medium.com/better-programming/even-more-javascript-shorthands-3bf1f5182d05)  
+- [Generators](https://medium.com/javascript-in-plain-english/how-to-use-the-generator-function-in-javascript-6ab00380cc5f)
 
 
 ## Python   
