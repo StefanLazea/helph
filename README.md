@@ -13,7 +13,8 @@ Links with cool stuffs.
 - [Console log id dead?!](https://levelup.gitconnected.com/moving-beyond-console-log-8-console-methods-you-should-use-when-debugging-javascript-and-node-25f6ac840ada) 
 - [Capture img](http://sviridovserg.com/2017/09/18/react-photo-capture/)  
 - [Wordpress deploy with nginx](https://linuxize.com/post/how-to-install-wordpress-with-nginx-on-ubuntu-18-04/)  
-- [Draw sql diagrams](https://drawsql.app/home)
+- [Draw sql diagrams](https://drawsql.app/home)  
+- [Docker](https://medium.com/rate-engineering/using-docker-containers-to-run-a-distributed-application-locally-eeabd360bca3)
 
 
 ## React  
