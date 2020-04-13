@@ -34,7 +34,8 @@ Links with cool stuffs.
 - [Tools/Hooks](https://blog.bitsrc.io/11-useful-custom-react-hooks-for-your-next-app-c66307cf0f0c)  
 - [Refs](https://blog.bitsrc.io/understanding-ref-forwarding-in-react-80accd93ed74)  
 - [10 ways to optimize a React app](https://blog.bitsrc.io/10-ways-to-optimize-your-react-apps-performance-e5e437c9abce)  
-- [Redux vs Others](https://medium.com/better-programming/redux-vs-context-vs-state-4202be6d3e54)
+- [Redux vs Others](https://medium.com/better-programming/redux-vs-context-vs-state-4202be6d3e54)  
+- [About hooks](https://reactjs.org/docs/hooks-intro.html)
 
 ## Javascript & NodeJS
 - [Build app graphs - Madge](https://www.npmjs.com/package/madge)
