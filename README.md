@@ -51,7 +51,8 @@ Links with cool stuffs.
 - [Shorthands](https://medium.com/better-programming/even-more-javascript-shorthands-3bf1f5182d05)  
 - [Generators](https://medium.com/javascript-in-plain-english/how-to-use-the-generator-function-in-javascript-6ab00380cc5f)  
 - [Node best practices](https://github.com/goldbergyoni/nodebestpractices)  
-- [RestFul best practices](https://levelup.gitconnected.com/restful-api-patterns-81930c43e494)
+- [RestFul best practices](https://levelup.gitconnected.com/restful-api-patterns-81930c43e494)  
+- [Node arhitecture](https://medium.com/better-programming/node-clean-architecture-deep-dive-ab68e523554b)
 
 
 ## Python   
