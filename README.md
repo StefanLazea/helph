@@ -60,7 +60,7 @@ Links with cool stuffs.
 ## Python   
 - [Progress Bar](https://towardsdatascience.com/learning-to-use-progress-bars-in-python-2dc436de81e5)
 - [Iris - ML](https://www.w3resource.com/machine-learning/scikit-learn/iris/index.php)  
- -[**Image processing - jimp**](https://medium.com/@rossbulat/image-processing-in-nodejs-with-jimp-174f39336153)
+- [**Image processing - jimp**](https://medium.com/@rossbulat/image-processing-in-nodejs-with-jimp-174f39336153)
  
   
  ## Tools  
