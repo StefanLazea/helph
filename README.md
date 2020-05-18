@@ -17,6 +17,10 @@ Links with cool stuffs.
 - [Docker](https://medium.com/rate-engineering/using-docker-containers-to-run-a-distributed-application-locally-eeabd360bca3)
 
 
+## CSS  
+- [10 best practices about css](https://medium.com/better-programming/10-best-practices-for-improving-your-css-84c69aac66e?source=extreme_main_feed---------1-58--------------------f46f741b_6c80_420f_a200_111d6a717e82--5)  
+
+
 ## React  
 - [Serverless React tutorial](https://serverless-stack.com/chapters/create-a-login-page.html)  
 - [Axios with react](https://alligator.io/react/axios-react/)  
