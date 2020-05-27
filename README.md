@@ -40,7 +40,8 @@ Links with cool stuffs.
 - [10 ways to optimize a React app](https://blog.bitsrc.io/10-ways-to-optimize-your-react-apps-performance-e5e437c9abce)  
 - [Redux vs Others](https://medium.com/better-programming/redux-vs-context-vs-state-4202be6d3e54)  
 - [About hooks](https://reactjs.org/docs/hooks-intro.html)  
-- [PWA](https://medium.com/better-programming/build-a-realtime-pwa-with-react-99e7b0fd3270)
+- [PWA](https://medium.com/better-programming/build-a-realtime-pwa-with-react-99e7b0fd3270)  
+- [Ways of rendering a react component](https://medium.com/better-programming/4-ways-to-conditionally-render-in-react-3785fb5e5013)
 
 ## Javascript & NodeJS
 - [Build app graphs - Madge](https://www.npmjs.com/package/madge)
