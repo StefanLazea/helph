@@ -1,6 +1,15 @@
 ## helph
 Links with cool stuffs.
 
+  
+ ## Tools  
+ 
+ - [Devs for front-end](https://blog.bitsrc.io/12-useful-online-tools-for-frontend-developers-bf98f3bf7c63)  
+ - [VS Code bast practices](https://medium.com/better-programming/12-vscode-shortcuts-and-tactics-to-ease-development-f9d5d5f8b76)  
+ - [**VS Code plugin**- Tabnine AI autocomplete](https://tabnine.com/)
+ - [**Generate colors palette**](https://coolors.co/7cc5e9-36494e-000000-7ea0b7-597081)
+ 
+
 ## General knowledge
 - [Road maps](https://medium.com/level-up-web/developer-roadmaps-all-in-one-place-75c0402db0e0)  
 - [Alias in unix](https://codeburst.io/learn-how-to-create-custom-bash-commands-in-less-than-4-minutes-6d4ceadd9590)    
@@ -68,11 +77,4 @@ Links with cool stuffs.
 - [Iris - ML](https://www.w3resource.com/machine-learning/scikit-learn/iris/index.php)  
 - [**Image processing - jimp**](https://medium.com/@rossbulat/image-processing-in-nodejs-with-jimp-174f39336153)
  
-  
- ## Tools  
- 
- - [Devs for front-end](https://blog.bitsrc.io/12-useful-online-tools-for-frontend-developers-bf98f3bf7c63)  
- - [VS Code bast practices](https://medium.com/better-programming/12-vscode-shortcuts-and-tactics-to-ease-development-f9d5d5f8b76)  
- - [**VS Code plugin**- Tabnine AI autocomplete](https://tabnine.com/)
- - [**Generate colors palette**](https://coolors.co/7cc5e9-36494e-000000-7ea0b7-597081)
- 
+
