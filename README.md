@@ -50,7 +50,8 @@ Links with cool stuffs.
 - [Redux vs Others](https://medium.com/better-programming/redux-vs-context-vs-state-4202be6d3e54)  
 - [About hooks](https://reactjs.org/docs/hooks-intro.html)  
 - [PWA](https://medium.com/better-programming/build-a-realtime-pwa-with-react-99e7b0fd3270)  
-- [Ways of rendering a react component](https://medium.com/better-programming/4-ways-to-conditionally-render-in-react-3785fb5e5013)
+- [Ways of rendering a react component](https://medium.com/better-programming/4-ways-to-conditionally-render-in-react-3785fb5e5013)  
+- [Text editor](https://medium.com/better-programming/how-to-add-a-rich-text-editor-into-your-react-app-206c0be45739)  
 
 ## Javascript & NodeJS
 - [Build app graphs - Madge](https://www.npmjs.com/package/madge)
