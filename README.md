@@ -3,7 +3,6 @@ Links with cool stuffs.
 
   
  ## Tools  
- 
  - [Devs for front-end](https://blog.bitsrc.io/12-useful-online-tools-for-frontend-developers-bf98f3bf7c63)  
  - [VS Code bast practices](https://medium.com/better-programming/12-vscode-shortcuts-and-tactics-to-ease-development-f9d5d5f8b76)  
  - [**VS Code plugin**- Tabnine AI autocomplete](https://tabnine.com/)
@@ -79,4 +78,7 @@ Links with cool stuffs.
 - [Iris - ML](https://www.w3resource.com/machine-learning/scikit-learn/iris/index.php)  
 - [**Image processing - jimp**](https://medium.com/@rossbulat/image-processing-in-nodejs-with-jimp-174f39336153)
  
+ 
+ ## Things you wanna know  
+ - [Why u uninstall](https://appsamurai.com/10-reasons-for-why-people-uninstall-your-mobile-app/)  
 
