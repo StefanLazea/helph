@@ -80,5 +80,5 @@ Links with cool stuffs.
  
  
  ## Things you wanna know  
- - [Why u uninstall](https://appsamurai.com/10-reasons-for-why-people-uninstall-your-mobile-app/)  
+ - [Why u uninstall apps](https://appsamurai.com/10-reasons-for-why-people-uninstall-your-mobile-app/)  
 
