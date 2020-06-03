@@ -51,7 +51,8 @@ Links with cool stuffs.
 - [PWA](https://medium.com/better-programming/build-a-realtime-pwa-with-react-99e7b0fd3270)  
 - [Ways of rendering a react component](https://medium.com/better-programming/4-ways-to-conditionally-render-in-react-3785fb5e5013)  
 - [Text editor](https://medium.com/better-programming/how-to-add-a-rich-text-editor-into-your-react-app-206c0be45739)  
-- [Top libraries](https://medium.com/better-programming/top-javascript-libraries-you-should-know-about-3b6e22555089)
+- [Top libraries](https://medium.com/better-programming/top-javascript-libraries-you-should-know-about-3b6e22555089)  
+- [Datepicker from scratch](https://medium.com/swlh/build-a-date-picker-in-15mins-using-javascript-react-from-scratch-f6932c77db09)  
 
 ## Javascript & NodeJS
 - [Build app graphs - Madge](https://www.npmjs.com/package/madge)
