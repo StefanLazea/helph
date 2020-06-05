@@ -71,7 +71,8 @@ Links with cool stuffs.
 - [RestFul best practices](https://levelup.gitconnected.com/restful-api-patterns-81930c43e494)  
 - [Node arhitecture](https://medium.com/better-programming/node-clean-architecture-deep-dive-ab68e523554b)  
 - [Interview questions](https://medium.com/better-programming/javascript-interview-questions-the-basics-c28f81bafbed)   
-- [ES2020](https://medium.com/javascript-in-plain-english/here-are-5-new-javascript-features-in-es2020-that-you-should-know-857ecf03a32a)
+- [ES2020](https://medium.com/javascript-in-plain-english/here-are-5-new-javascript-features-in-es2020-that-you-should-know-857ecf03a32a)  
+- [Libraries](https://medium.com/javascript-in-plain-english/14-most-useful-nodejs-libraries-in-2020-9e0a5e72d1d8)
 
 
 ## Python   
