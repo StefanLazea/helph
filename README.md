@@ -53,6 +53,7 @@ Links with cool stuffs.
 - [Text editor](https://medium.com/better-programming/how-to-add-a-rich-text-editor-into-your-react-app-206c0be45739)  
 - [Top libraries](https://medium.com/better-programming/top-javascript-libraries-you-should-know-about-3b6e22555089)  
 - [Datepicker from scratch](https://medium.com/swlh/build-a-date-picker-in-15mins-using-javascript-react-from-scratch-f6932c77db09)  
+- [React slider](https://caferati.me/demo/react-awesome-slider/cube)
 
 ## Javascript & NodeJS
 - [Build app graphs - Madge](https://www.npmjs.com/package/madge)
