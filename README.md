@@ -1,5 +1,5 @@
 ## helph
-Links with cool stuffs.
+Links with cool stuffs found on internet.
 
   
  ## Tools  
