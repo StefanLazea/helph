@@ -55,6 +55,7 @@ Links with cool stuffs found on internet.
 - [Datepicker from scratch](https://medium.com/swlh/build-a-date-picker-in-15mins-using-javascript-react-from-scratch-f6932c77db09)  
 - [React slider](https://caferati.me/demo/react-awesome-slider/cube)  
 - [React image gallery](https://github.com/xiaolin/react-image-gallery)
+- [Role based auth](https://medium.com/better-programming/role-based-authorization-in-react-c70bb7641db4)  
 
 ## Javascript & NodeJS
 - [Build app graphs - Madge](https://www.npmjs.com/package/madge)
