@@ -56,6 +56,7 @@ Links with cool stuffs found on internet.
 - [React slider](https://caferati.me/demo/react-awesome-slider/cube)  
 - [React image gallery](https://github.com/xiaolin/react-image-gallery)
 - [Role based auth](https://medium.com/better-programming/role-based-authorization-in-react-c70bb7641db4)  
+- [Notes in React](https://github.com/dabit3/react-notes)
 
 ## Javascript & NodeJS
 - [Build app graphs - Madge](https://www.npmjs.com/package/madge)
