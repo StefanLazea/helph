@@ -56,7 +56,8 @@ Links with cool stuffs found on internet.
 - [React slider](https://caferati.me/demo/react-awesome-slider/cube)  
 - [React image gallery](https://github.com/xiaolin/react-image-gallery)
 - [Role based auth](https://medium.com/better-programming/role-based-authorization-in-react-c70bb7641db4)  
-- [Notes in React](https://github.com/dabit3/react-notes)
+- [Notes in React](https://github.com/dabit3/react-notes) 
+- [Better code with JSX](https://itnext.io/write-clean-er-components-jsx-1e70491baded)
 
 ## Javascript & NodeJS
 - [Build app graphs - Madge](https://www.npmjs.com/package/madge)
@@ -87,4 +88,5 @@ Links with cool stuffs found on internet.
  
  ## Things you wanna know  
  - [Why u uninstall apps](https://appsamurai.com/10-reasons-for-why-people-uninstall-your-mobile-app/)  
+ 
 
