@@ -57,7 +57,8 @@ Links with cool stuffs found on internet.
 - [React image gallery](https://github.com/xiaolin/react-image-gallery)
 - [Role based auth](https://medium.com/better-programming/role-based-authorization-in-react-c70bb7641db4)  
 - [Notes in React](https://github.com/dabit3/react-notes) 
-- [Better code with JSX](https://itnext.io/write-clean-er-components-jsx-1e70491baded)
+- [Better code with JSX](https://itnext.io/write-clean-er-components-jsx-1e70491baded)  
+- [**useEffect best explanation**](https://overreacted.io/a-complete-guide-to-useeffect/)  
 
 ## Javascript & NodeJS
 - [Build app graphs - Madge](https://www.npmjs.com/package/madge)
