@@ -60,6 +60,7 @@ Links with cool stuffs found on internet.
 - [Better code with JSX](https://itnext.io/write-clean-er-components-jsx-1e70491baded)  
 - [**useEffect best explanation**](https://overreacted.io/a-complete-guide-to-useeffect/)  
 - [**How to fetch data using hooks**](https://www.robinwieruch.de/react-hooks-fetch-data)  
+- [**Prevent setState on unmounted components**](robinwieruch.de/react-warning-cant-call-setstate-on-an-unmounted-component)  
 
 ## Javascript & NodeJS
 - [Build app graphs - Madge](https://www.npmjs.com/package/madge)
