@@ -59,6 +59,7 @@ Links with cool stuffs found on internet.
 - [Notes in React](https://github.com/dabit3/react-notes) 
 - [Better code with JSX](https://itnext.io/write-clean-er-components-jsx-1e70491baded)  
 - [**useEffect best explanation**](https://overreacted.io/a-complete-guide-to-useeffect/)  
+- [**How to fetch data using hooks**](https://www.robinwieruch.de/react-hooks-fetch-data)  
 
 ## Javascript & NodeJS
 - [Build app graphs - Madge](https://www.npmjs.com/package/madge)
