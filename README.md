@@ -82,6 +82,7 @@ Links with cool stuffs found on internet.
 - [Interview questions](https://medium.com/better-programming/javascript-interview-questions-the-basics-c28f81bafbed)   
 - [ES2020](https://medium.com/javascript-in-plain-english/here-are-5-new-javascript-features-in-es2020-that-you-should-know-857ecf03a32a)  
 - [Libraries](https://medium.com/javascript-in-plain-english/14-most-useful-nodejs-libraries-in-2020-9e0a5e72d1d8)
+- [Private routes with React Hooks](https://medium.com/trabe/implementing-private-routes-with-react-router-and-hooks-ed38d0cf93d5)
 
 
 ## Python   
