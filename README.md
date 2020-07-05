@@ -62,6 +62,7 @@ Links with cool stuffs found on internet.
 - [**How to fetch data using hooks**](https://www.robinwieruch.de/react-hooks-fetch-data)  
 - [**Prevent setState on unmounted components**](robinwieruch.de/react-warning-cant-call-setstate-on-an-unmounted-component)  
 - [React component patterns](https://medium.com/teamsubchannel/react-component-patterns-e7fb75be7bb0)
+- [Set state with function](https://medium.com/better-programming/3-mistakes-junior-developers-make-with-a-react-components-state-997043291b54)
 
 ## Javascript & NodeJS
 - [Build app graphs - Madge](https://www.npmjs.com/package/madge)
