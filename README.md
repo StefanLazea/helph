@@ -62,7 +62,8 @@ Links with cool stuffs found on internet.
 - [**How to fetch data using hooks**](https://www.robinwieruch.de/react-hooks-fetch-data)  
 - [**Prevent setState on unmounted components**](robinwieruch.de/react-warning-cant-call-setstate-on-an-unmounted-component)  
 - [React component patterns](https://medium.com/teamsubchannel/react-component-patterns-e7fb75be7bb0)
-- [Set state with function](https://medium.com/better-programming/3-mistakes-junior-developers-make-with-a-react-components-state-997043291b54)
+- [Set state with function](https://medium.com/better-programming/3-mistakes-junior-developers-make-with-a-react-components-state-997043291b54)  
+- [Hooks](https://medium.com/better-programming/7-awesome-react-hooks-38b81f3cbd0a)
 
 ## Javascript & NodeJS
 - [Build app graphs - Madge](https://www.npmjs.com/package/madge)
@@ -84,6 +85,7 @@ Links with cool stuffs found on internet.
 - [ES2020](https://medium.com/javascript-in-plain-english/here-are-5-new-javascript-features-in-es2020-that-you-should-know-857ecf03a32a)  
 - [Libraries](https://medium.com/javascript-in-plain-english/14-most-useful-nodejs-libraries-in-2020-9e0a5e72d1d8)
 - [Private routes with React Hooks](https://medium.com/trabe/implementing-private-routes-with-react-router-and-hooks-ed38d0cf93d5)
+- [Destructing](https://medium.com/better-programming/6-amazing-javascript-destructuring-tricks-d47da9a0047f)
 
 
 ## Python   
