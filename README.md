@@ -64,7 +64,12 @@ Links with cool stuffs found on internet.
 - [React component patterns](https://medium.com/teamsubchannel/react-component-patterns-e7fb75be7bb0)
 - [Set state with function](https://medium.com/better-programming/3-mistakes-junior-developers-make-with-a-react-components-state-997043291b54)  
 - [Hooks](https://medium.com/better-programming/7-awesome-react-hooks-38b81f3cbd0a)  
-- [Formik hook](https://formik.org/docs/api/useFormik)
+- [Formik hook](https://formik.org/docs/api/useFormik)  
+- [Private routes](https://codeburst.io/react-redux-react-router-private-route-alternative-eb22d90650a9)  
+
+
+
+
 
 ## Javascript & NodeJS
 - [Build app graphs - Madge](https://www.npmjs.com/package/madge)
