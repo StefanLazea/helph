@@ -27,6 +27,7 @@ Links with cool stuffs found on internet.
 
 ## CSS  
 - [10 best practices about css](https://medium.com/better-programming/10-best-practices-for-improving-your-css-84c69aac66e?source=extreme_main_feed---------1-58--------------------f46f741b_6c80_420f_a200_111d6a717e82--5)  
+- [Flex](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 
 ## React  
