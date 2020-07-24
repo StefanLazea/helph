@@ -94,6 +94,7 @@ Links with cool stuffs found on internet.
 - [Libraries](https://medium.com/javascript-in-plain-english/14-most-useful-nodejs-libraries-in-2020-9e0a5e72d1d8)
 - [Private routes with React Hooks](https://medium.com/trabe/implementing-private-routes-with-react-router-and-hooks-ed38d0cf93d5)
 - [Destructing](https://medium.com/better-programming/6-amazing-javascript-destructuring-tricks-d47da9a0047f)
+- [5 ways of using reduce](https://medium.com/javascript-in-plain-english/5-use-cases-for-reduce-in-javascript-61ed243b8fef)
 
 
 ## Python   
