@@ -74,6 +74,7 @@ Links with cool stuffs found on internet.
 - [looping in React](https://medium.com/javascript-in-plain-english/how-to-loop-through-arrays-in-react-3eaa8a14445)  
 - [React memo](https://blog.bitsrc.io/improve-performance-in-react-functional-components-using-react-memo-b2e80c11e15a)  
 - [React context](https://www.robinwieruch.de/react-context/)
+- [Using context from child to parent](https://stackoverflow.com/questions/41030361/how-to-update-react-context-from-inside-a-child-component). 
 
 
 
