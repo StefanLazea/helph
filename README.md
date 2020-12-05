@@ -77,9 +77,6 @@ Links with cool stuffs found on internet.
 - [Using context from child to parent](https://stackoverflow.com/questions/41030361/how-to-update-react-context-from-inside-a-child-component). 
 
 
-
-
-
 ## Javascript & NodeJS
 - [Build app graphs - Madge](https://www.npmjs.com/package/madge)
 - [Sequelize ERD](https://www.npmjs.com/package/sequelize-erd)  
@@ -110,6 +107,9 @@ Links with cool stuffs found on internet.
 - [Iris - ML](https://www.w3resource.com/machine-learning/scikit-learn/iris/index.php)  
 - [**Image processing - jimp**](https://medium.com/@rossbulat/image-processing-in-nodejs-with-jimp-174f39336153)
  
+ ## Vue
+ 
+ ## Spring 
  
  ## Things you wanna know  
  - [Why u uninstall apps](https://appsamurai.com/10-reasons-for-why-people-uninstall-your-mobile-app/)  
