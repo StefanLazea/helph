@@ -117,6 +117,7 @@ Links with cool stuffs found on internet. (Gotta track my daily commits somehow)
  
  ## UX
  - [UX](https://uxdesign.cc/the-three-levels-of-accessibility-cd1f8a70a883)
+ - [Palettes with Coolors](https://coolors.co/)
  
  
  ## Things you wanna know  
