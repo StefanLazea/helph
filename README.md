@@ -77,7 +77,8 @@ Links with cool stuffs found on internet. (Gotta track my daily commits somehow)
 - [React memo](https://blog.bitsrc.io/improve-performance-in-react-functional-components-using-react-memo-b2e80c11e15a)  
 - [React context](https://www.robinwieruch.de/react-context/)
 - [Using context from child to parent](https://stackoverflow.com/questions/41030361/how-to-update-react-context-from-inside-a-child-component). 
-- [One way of structuring your React App](https://medium.com/better-programming/how-you-should-structure-your-react-applications-e7dd32375a98)
+- [One way of structuring your React App](https://medium.com/better-programming/how-you-should-structure-your-react-applications-e7dd32375a98). 
+- [React Observables](https://github.com/ngneat/react-rxjs). 
 
 
 ## Javascript & NodeJS
