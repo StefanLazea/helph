@@ -107,6 +107,8 @@ Links with cool stuffs found on internet. (Gotta track my daily commits somehow)
 - [Operators](https://www.joshwcomeau.com/operator-lookup)
 
 
+- [Google vision](https://medium.com/analytics-vidhya/setting-up-google-cloud-vision-api-with-node-js-db29d1b6fbe2). 
+
 ## Python   
 - [Progress Bar](https://towardsdatascience.com/learning-to-use-progress-bars-in-python-2dc436de81e5)
 - [Iris - ML](https://www.w3resource.com/machine-learning/scikit-learn/iris/index.php)  
