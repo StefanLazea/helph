@@ -79,6 +79,7 @@ Links with cool stuffs found on internet. (Gotta track my daily commits somehow)
 - [Using context from child to parent](https://stackoverflow.com/questions/41030361/how-to-update-react-context-from-inside-a-child-component). 
 - [One way of structuring your React App](https://medium.com/better-programming/how-you-should-structure-your-react-applications-e7dd32375a98). 
 - [React Observables](https://github.com/ngneat/react-rxjs). 
+- [Fully copy an external component](https://ctoppel.medium.com/how-to-fully-copy-an-external-react-component-including-static-properties-9cded285935e). 
 
 
 ## Javascript & NodeJS
