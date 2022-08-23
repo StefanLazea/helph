@@ -106,8 +106,7 @@ Links with cool stuffs found on internet. (Gotta track my daily commits somehow)
 - [5 ways of using reduce](https://medium.com/javascript-in-plain-english/5-use-cases-for-reduce-in-javascript-61ed243b8fef)  
 - [20 Node.js libraries](https://blog.bitsrc.io/23-insanely-useful-nodejs-libraries-you-should-know-in-2020-5a9b570d5416)
 - [Operators](https://www.joshwcomeau.com/operator-lookup)
-- [using objects instead of conditionals](https://neelesh-arora.medium.com/stop-using-conditional-statements-everywhere-in-javascript-use-an-object-literal-instead-e780debcda18). 
-
+- [using objects instead of conditionals](https://neelesh-arora.medium.com/stop-using-conditional-statements-everywhere-in-javascript-use-an-object-literal-instead-e780debcda18).
 
 - [Google vision](https://medium.com/analytics-vidhya/setting-up-google-cloud-vision-api-with-node-js-db29d1b6fbe2). 
 
@@ -116,9 +115,6 @@ Links with cool stuffs found on internet. (Gotta track my daily commits somehow)
 - [Iris - ML](https://www.w3resource.com/machine-learning/scikit-learn/iris/index.php)  
 - [**Image processing - jimp**](https://medium.com/@rossbulat/image-processing-in-nodejs-with-jimp-174f39336153)
  
- ## Vue
- 
- ## Spring 
  
  ## UX
  - [UX](https://uxdesign.cc/the-three-levels-of-accessibility-cd1f8a70a883)  
