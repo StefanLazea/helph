@@ -128,3 +128,4 @@ Links with cool stuffs found on internet. (Gotta track my daily commits somehow)
 ## 2022
 
 - [bun](https://bun.sh/)  
+- [useQuery](https://tanstack.com/query/v4/docs/reference/useQuery?from=reactQueryV3)
