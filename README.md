@@ -125,4 +125,6 @@ Links with cool stuffs found on internet. (Gotta track my daily commits somehow)
  - [Why u uninstall apps](https://appsamurai.com/10-reasons-for-why-people-uninstall-your-mobile-app/)  
  - [Avoid Else statements](https://levelup.gitconnected.com/how-you-can-avoid-using-else-in-your-code-871197a1adbc)
  
+## 2022
 
+- [bun](https://bun.sh/)  
