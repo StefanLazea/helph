@@ -126,6 +126,7 @@ Links with cool stuffs found on internet. (Gotta track my daily commits somehow)
  - [Avoid Else statements](https://levelup.gitconnected.com/how-you-can-avoid-using-else-in-your-code-871197a1adbc)
  
 ## 2022
-
 - [bun](https://bun.sh/)  
 - [useQuery](https://tanstack.com/query/v4/docs/reference/useQuery?from=reactQueryV3)
+
+## 2023
