@@ -120,6 +120,7 @@ Links with cool stuffs found on internet. (Gotta track my daily commits somehow)
  - [UX](https://uxdesign.cc/the-three-levels-of-accessibility-cd1f8a70a883)  
  - [Palettes with Coolors](https://coolors.co/)  
  - [Undraw - illustrations free](https://undraw.co/illustrations)  
+ - [Feedback](https://uxdesign.cc/designers-beware-common-pitfalls-to-avoid-when-handling-feedback-2ca2f76c8a22). 
  
  ## Things you wanna know  
  - [Why u uninstall apps](https://appsamurai.com/10-reasons-for-why-people-uninstall-your-mobile-app/)  
