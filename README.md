@@ -135,3 +135,8 @@ Links with cool stuffs found on internet.
 
 ## Nice to read
 - [React programming](https://github.com/insolitum)
+
+
+
+Alternatives to CRA
+- [next js enterprise boilerplate](https://vercel.com/templates/next.js/nextjs-enterprise-boilerplate)
