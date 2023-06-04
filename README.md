@@ -1,5 +1,6 @@
 ## helph
-Links with cool stuffs found on internet. (Gotta track my daily commits somehow)
+Links with cool stuffs found on internet. 
+(Gotta track my daily commits somehow)
 
   
  ## Tools  
