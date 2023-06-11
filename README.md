@@ -82,6 +82,7 @@ Links with cool stuffs found on internet.
 - [React Observables](https://github.com/ngneat/react-rxjs). 
 - [Fully copy an external component](https://ctoppel.medium.com/how-to-fully-copy-an-external-react-component-including-static-properties-9cded285935e). 
 - [React carousel - slick](http://kenwheeler.github.io/slick/)
+- [CRA alternatives](https://hackernoon.com/create-react-app-is-dead-here-are-some-alternatives)
 
 ## Javascript & NodeJS
 - [Build app graphs - Madge](https://www.npmjs.com/package/madge)
