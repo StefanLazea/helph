@@ -1,4 +1,4 @@
-## helph 2020-2023
+## helph 2020-2023 - arhived
 Links with cool stuffs found on internet. 
 (Gotta track my daily commits somehow)
 
